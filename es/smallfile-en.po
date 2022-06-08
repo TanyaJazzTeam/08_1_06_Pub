@@ -19,7 +19,7 @@ msgid "AMP Caches & CORS"
 msgstr "Cachés de AMP y CORS"
 
 #: /views/partials/footer.j2:33
-msgid "AMP Contributor Summit 2019"
+msgid "AMP Contributor Summit 0000"
 msgstr "Cumbre de colaboradores de AMP 0000"
 
 #: /views/partials/footer.j2:71

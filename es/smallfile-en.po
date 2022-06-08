@@ -12,7 +12,7 @@ msgstr "Una captura de pantalla del sitio web."
 
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
-msgstr "Materiales de la marca AMP"
+msgstr ""
 
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
